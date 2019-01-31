@@ -1,4 +1,4 @@
-# Cloudant Python Client
+# Cloudant Python Client (testing)
 
 [![Build Status](https://travis-ci.org/cloudant/python-cloudant.svg?branch=master)](https://travis-ci.org/cloudant/python-cloudant)
 [![Readthedocs](https://readthedocs.org/projects/pip/badge/)](http://python-cloudant.readthedocs.io)
